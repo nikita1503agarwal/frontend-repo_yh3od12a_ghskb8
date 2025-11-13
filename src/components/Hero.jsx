@@ -32,7 +32,7 @@ export default function Hero() {
               transition={{ delay: 0.15, duration: 0.7 }}
               className="mt-4 text-lg md:text-xl text-white/70 max-w-xl"
             >
-              I’m Alex Carter — Designer & Developer blending aesthetics and code to build minimal, high-performance products.
+              I’m shani mani — Designer & Developer blending aesthetics and code to build minimal, high-performance products.
             </motion.p>
             <motion.div
               initial={{ opacity: 0, y: 12 }}
